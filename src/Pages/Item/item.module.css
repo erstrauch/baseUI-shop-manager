@@ -1,0 +1,9 @@
+.header {
+  /* display: inline-flex; */
+  display: grid;
+
+  .trigger {
+    display: inline-flex;
+    justify-content: space-between;
+  }
+}
